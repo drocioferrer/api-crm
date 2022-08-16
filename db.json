@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rocio",
+      "empresa": "UNAJ",
+      "email": "rocio@rocio.com",
+      "telefono": "1234567890",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@paulina.com",
+      "telefono": "1122334455",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Kongo",
+      "empresa": "Patitas Negras SRL",
+      "email": "kongo@kongo.com",
+      "telefono": "1112223334",
+      "notas": "kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado kongado ",
+      "id": 3
+    }
+  ]
+}
